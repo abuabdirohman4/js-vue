@@ -2,3 +2,7 @@
 	path = vue-3-basic
 	url = git@github.com:abuabdirohman4/vue-3-basic.git
 	branch = develop
+[submodule "vue-3-zullkit-design-store"]
+	path = vue-3-zullkit-design-store
+	url = git@github.com:abuabdirohman4/vue-3-zullkit-design-store.git
+	branch = develop
