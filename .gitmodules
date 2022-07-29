@@ -1,3 +1,4 @@
 [submodule "vue-3-basic"]
 	path = vue-3-basic
 	url = git@github.com:abuabdirohman4/vue-3-basic.git
+	branch = develop
